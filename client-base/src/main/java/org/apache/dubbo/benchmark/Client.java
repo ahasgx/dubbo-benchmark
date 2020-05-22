@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
 
 @State(Scope.Benchmark)
 public class Client extends AbstractClient {
-    private static final int CONCURRENCY = 320;
+    private static final int CONCURRENCY = 150;
 
     private final ClassPathXmlApplicationContext context;
     private final UserService userService;
