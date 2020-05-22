@@ -40,7 +40,7 @@ run() {
 
 PROGRAM_NAME=$0
 MODE="benchmark"
-SERVER="localhost"
+SERVER="172.30.1.127"
 PORT="8080"
 OUTPUT=""
 OPTIND=1

@@ -36,20 +36,6 @@
         <module>dubbo-fst-server</module>
         <module>dubbo-native-hessian-client</module>
         <module>dubbo-native-hessian-server</module>
-        <module>dubbo-avro-server</module>
-        <module>dubbo-avro-client</module>
-        <module>dubbo-fastjson-client</module>
-        <module>dubbo-fastjson-server</module>
-        <module>dubbo-protostuff-server</module>
-        <module>dubbo-protostuff-client</module>
-        <module>dubbo-gson-server</module>
-        <module>dubbo-gson-client</module>
-        <module>dubbo-protobuf-json-server</module>
-        <module>dubbo-protobuf-json-client</module>
-        <module>dubbo-pb-server</module>
-        <module>dubbo-pb-client</module>
-        <module>dubbo-grpc-server</module>
-        <module>dubbo-grpc-client</module>
 
     </modules>
 
